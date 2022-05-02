@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetsAPI{StevenBrenes}V2", "AssetsAPI{StevenBrenes}V2\AssetsAPI{StevenBrenes}V2.csproj", "{9DD914C5-8FF6-4498-B841-D6CA3E0CE86C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD914C5-8FF6-4498-B841-D6CA3E0CE86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD914C5-8FF6-4498-B841-D6CA3E0CE86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD914C5-8FF6-4498-B841-D6CA3E0CE86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD914C5-8FF6-4498-B841-D6CA3E0CE86C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BA5EC9F-DECD-4175-8A12-EFCCD3C1D207}
+	EndGlobalSection
+EndGlobal
